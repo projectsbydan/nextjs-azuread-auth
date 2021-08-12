@@ -1,4 +1,4 @@
-##Description
+## Description
 
 Example App with React, NextJS, Fluent UI and Azure AD MSAL
 
